@@ -4,12 +4,6 @@
            / \|  \ / \|_ _|
           ( o ) o ) o || | 
            \_/|__/|_n_||_| 
--------------------------------------------
-  _        __           _           ___ 
- / \      |  \         / \         |_ _|
-( o )       o )         o |         | | 
- \_/racle |__/atabase |_n_|ttacking |_|ool 
--------------------------------------------
 
 
 ODAT (Oracle Database Attacking Tool) is not included in the Blackarch Repo so if we want to use it on Arch we need to install it in a bit more of a manual fashion.
